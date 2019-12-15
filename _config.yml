@@ -10,7 +10,7 @@ description: اين درس به بررسي اصول، طراحي، پيادهس�
     Instructor: Zhila Sadati
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/course_template" # the subpath of your site, e.g. /blog/
+baseurl: "/Network" # the subpath of your site, e.g. /blog/
 url: "https://azadehdarabi.github.io/Network/" # the base hostname & protocol for your site
 syllabus: https://azadehdarabi.github.io/Network/syllabus/
 githubdir: 
@@ -18,8 +18,8 @@ githubdir:
 # Author/user information
 email: instructor-first-name@iust.ac.ir
 twitter_username: broken_twitter 
-github_username:  broken_github
-authorurl: "http://borken-url.github.io"
+github_username: azadehdarabi
+authorurl: "http://azadehdarabi.github.io"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
