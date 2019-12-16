@@ -3,11 +3,10 @@ title: Iran University of Science and Technology
 course_name: شبکه های کامپیوتری
 course_description: اهداف درس
 course_semester: "پاییز 1398"
-description: |
- اين درس به بررسي اصول، طراحي، پيادهسازي و کارآيي شبکههاي کامپيوتري ميپردازد. دانشجويان در اين
+description: "اين درس به بررسي اصول، طراحي، پيادهسازي و کارآيي شبکههاي کامپيوتري ميپردازد. دانشجويان در اين
 درس با معماري و سرويسهاي شبکههاي کامپيوتري و مدل اليهاي آشنا ميشوند. اين درس با تأکيد بر
 شبکههاي اينترنت و مدل IP/TCP به بررسي پروتکلهاي اليه کاربرد، اليه حمل، اليه شبکه و اليه پيوند داده
-ميپردازد 
+ميپردازد" 
     Instructor: Zhila Sadati
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
