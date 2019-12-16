@@ -4,5 +4,7 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-* [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
-* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
+* James F. Kurose and Keith W. Ross, Computer Networking: A Top-Down
+Approach. 9th edition, Addison-Wesley Inc., 2111.
+* Alberto Leon-Garcia and Indra Widjaja, Communication Networks. 2
+nd edition,McGraw-Hill Inc., 2113.
