@@ -8,7 +8,7 @@ permalink: /syllabus/
 <b>name :</b>  Computer Networks<br>
 <b>Degree :</b> Bachelor’s degree<br>
 <b>prerequisite lesson :</b> Operating System<br>
-<b>prerequisite content :</b> computer architecture and operating system concepts,-concepts of statistics and engineering probability, knowledge of a programming -language
+<b>prerequisite content :</b> computer architecture and operating system concepts,-concepts of statistics and engineering probability, knowledge of a programming -language<br>
 
 
 <b>Refrence books:</b><br>
