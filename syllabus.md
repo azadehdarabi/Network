@@ -29,7 +29,7 @@ McGraw-Hill Inc., 2003.<br>
 
 
 <b>Essential softwares :</b><br>
-One of the most common programming languages and related libraries
+One of the most common programming languages and related libraries<br>
 
 
 <b>Assessment :</b><br>
