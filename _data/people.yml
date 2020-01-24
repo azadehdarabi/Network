@@ -1,6 +1,6 @@
 instructor:
   name: Dr. Morteza Analoui
-  profile_pic: /_images/avatar.png
+  <img src="/98521162/_images/morteza_analoui.png" class="image--cover">
 
 teaching_assistants:
   name: will be announced.
