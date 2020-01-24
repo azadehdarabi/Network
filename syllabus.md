@@ -13,11 +13,10 @@ permalink: /syllabus/
 
 <b>Refrence books:</b><br>
 1. James F. Kurose and Keith W. Ross, Computer Networking: A Top-Down Approach. 7th edition, Addison-Wesley Inc., 2016<br>
+    <li>
+      <a href="{{ http://gaia.cs.umass.edu/kurose_ross/interactive/ }}">{{ Interactive end-of-chapter exercises }}</a>
+    </li>
 
-2. [Interactive end-of-chapter exercises]({{http://gaia.cs.umass.edu/kurose_ross/interactive/}})<br>
-
-3. [Online supplements to the textbook]({{https://media.pearsoncmg.com/bc/abp/cs-resources/#product,isbn=0133594149}})<br>
- 
 
 <b>List Of Topics:</b><br>
 1. Chapter1: An overview of computer Networking Services, Internet Network and its components, Layer architecture of computer networks<br>
