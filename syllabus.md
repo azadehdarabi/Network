@@ -15,8 +15,7 @@ permalink: /syllabus/
 1. James F. Kurose and Keith W. Ross, Computer Networking: A Top-Down Approach. 7th edition, Addison-Wesley Inc., 2016<br>
 
 <a href="http://gaia.cs.umass.edu/kurose_ross/interactive/">2. Interactive end-of-chapter exercises</a><br>
-
-[3. Online supplements to the textbook](https://media.pearsoncmg.com/bc/abp/cs-resources/#product,isbn=0133594149)<br>
+<a href="https://media.pearsoncmg.com/bc/abp/cs-resources/#product,isbn=0133594149">3. Online supplements to the textbook</a><br>
  
 
 <b>List Of Topics:</b><br>
