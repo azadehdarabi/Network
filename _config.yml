@@ -1,7 +1,7 @@
 # Site settings
 title: "Iran University of Science and Technology"
 course_name: "Computer Network"
-course_description: "This course examines the principles, design, implementation, and performance of computer networks. Students are introduced to the architecture and services of computer networks and layer modeling. This course focuses on Internet networks and the TCP / IP model examines application layer protocols, transport layer, network layer and data link layer."
+course_description: "This course examines the principles, design, and implementation of computer networks. Students are introduced to the architecture and services of computer networks and layer modeling. There is new topics such as Software Defined Network. This course focuses on Internet networks and the TCP/IP model examines application layer protocols, transport layer, network layer and data link layer."
 course_semester: "fall 2019"
 description: |
 Instructor: Dr. Morteza Analoui
