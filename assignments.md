@@ -3,6 +3,7 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
+All assignments will be provided by TAs during the lecture in proper time.
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
