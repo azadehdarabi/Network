@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/
 ---
 
-You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
+All lecture materials including all notes and slides and a solution manual will be provided to students at class in the first day of the course.
 
 
 <ul id="archive">
