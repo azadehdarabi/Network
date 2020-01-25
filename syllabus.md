@@ -36,4 +36,3 @@ Quiz : 20%(once a week)<br>
 Midterm : 40%(chapters 1,2 and 3)<br>
 Final Exam : 40%(chapter 4,5 and 6)<br>
 </div>
----
