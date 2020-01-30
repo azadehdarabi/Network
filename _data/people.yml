@@ -2,7 +2,6 @@ instructor:
   name: Dr. Morteza Analoui
   profile_pic: /_images/morteza_analoui.jpg
 
-teaching_assistants:
-  txt: will be announced.
-
-    
+teaching_assistants: 
+  - name: Jamileh khalili Shahroz
+    profile_pic: /_images/avatar.png
